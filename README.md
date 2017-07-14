@@ -1,13 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Clonefleur
 
-You can use the [editor on GitHub](https://github.com/Khunoil/Arduino_code/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Clonefleur เป็นโปรเจคที่ใช้ในการตรวจสอบความชื้นในดิน ความเข้มแสง อุหณภูมิ ซึ่งสามารถนำมาใช้ประโยชน์ได้หลายอย่างทั้ง วัดความชื้นในดิน การตรวจสภาพแวดล้อมภายในโรงเรือน หรือแม้กระทั่งดารดูแลรักษาต้นไม้ที่คุณรัก ซึ่งสามารถทำตามได้ง่าย
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### อุปกรณ์ที่ใช้ในการทำ Clonefleur
+1.DHT11
+2.Soil Moisture Sensor
+3.NodeWiFi
+4.Wire jumper
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+**ดูวิธีการต่อsensorต่างๆ ในไฟล์ circuit ได้เลยค่ะ
 ```markdown
 Syntax highlighted code block
 
