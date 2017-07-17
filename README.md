@@ -12,17 +12,29 @@ Clonefleur เป็นโปรเจคที่ใช้ในการตร
 
   4.Wire jumper
 
+
 **วิธีการต่อ SEnsor ต่างๆ ดังนี้
+
   1.DHT11
+  
     - ขาVVC ลงไฟ 5V(+)
+    
     - ขาGND ลง Ground(-)
+    
     - ขาDATA ลงพอร์ทที่ 9 ของnodewifi
+    
   2.Soil Moisture Sensor
+  
     - ขาVVC ลงไฟ 5V(+)
+    
     - ขาGND ลงไฟ Ground(-)
+    
     - ขาA0  ลงพอร์ท A0 ของnodewifi
+    
   3.Node Wifi
+  
     - 3V3 ลงไฟ 5v(+)
+    
     - GND ลง Ground(-)
 
 ### CODE ARDUINO
